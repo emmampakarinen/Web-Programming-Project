@@ -1,0 +1,73 @@
+{
+    "front page": "Welcome to LutCrush!",
+    "front page text": "Ready to swipe?",
+    "login button": "Login here",
+    "register button": "Register here",
+
+    "register":{
+        "title": "Register",
+        "username": "Enter username",
+        "email": "Enter e-mail",
+        "password": "Enter password",
+        "question": "Already have a user?",
+        "submit": "Register"
+    },
+
+    "login":{
+        "title": "Login",
+        "email": "Enter e-mail",
+        "password": "Enter password",
+        "question": "Are you new here?",
+        "submit": "Login"
+    },
+
+    "profile":{
+        "title": "Welcome back {{name}}!",
+        "nameInput": "Name for card",
+        "emailInput": "E-mail",
+        "ageInput": "Age",
+        "profileTextInput": "Profile text",
+        "profileTextPlaceholder": "Write something about yourself!",
+        "update": "Update"
+    },
+
+    "profile-menu":{
+        "profile": "Profile",
+        "settings": "Settings"
+    },
+
+    "nav-menu":{
+        "swipe": "Swipe",
+        "chat": "Chats"
+    },
+
+    "swipe":{
+        "swipeText": "Ready, set, swipe!",
+        "likeBtn": "Yay!",
+        "dislikeBtn": "Nay!",
+        "match": "You got a match with {{name}}!",
+        "matchMsgSent": "Sent!",
+        "like": "You liked {{name}}!",
+        "end": "There is no swipeable users available at the moment. 😢"
+    },
+
+    "modal":{
+        "registerDate": "Register date: {{date}}",
+        "name": "Name: {{name}}",
+        "bio": "Bio: {{bio}}",
+        "age": "Age: {{age}}"
+    },
+
+    "chat":{
+        "messageInput": "Send a message to {{name}}",
+        "noMessages": "Don't be shy! Be the first to send a message 😜",
+        "noChats": "You don't have any matches yet. Go swipe!"
+    },
+
+    "settings":{
+        "title": "Settings",
+        "changeLang": "Change language",
+        "delete": "Delete user",
+        "confirmDel": "Confirm deletion of user by clicking again"
+    }
+}

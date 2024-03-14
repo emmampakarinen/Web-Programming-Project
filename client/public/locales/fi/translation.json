@@ -1,0 +1,74 @@
+{
+    "front page": "Tervetuloa LutCrushiin!",
+    "front page text": "Valmiina swipettämään?",
+    "login button": "Kirjaudu",
+    "register button": "Rekisteröidy",
+
+    "register":{
+        "title": "Rekisteröidy",
+        "username": "Syötä käyttäjänimi",
+        "email": "Syötä sähköposti",
+        "password": "Syötä salasana",
+        "question": "Onko sinulla jo käyttäjä?",
+        "submit": "Rekisteröidy"
+    },
+
+    "login":{
+        "title": "Kirjaudu",
+        "email": "Syötä sähköposti",
+        "password": "Syötä salasana",
+        "question": "Oletko uusi täällä?",
+        "submit": "Kirjaudu"
+    },
+
+    "profile":{
+        "title": "Tervetuloa takaisin {{name}}!",
+        "nameInput": "Nimesi korttiin",
+        "emailInput": "Sähköposti",
+        "ageInput": "Ikä",
+        "profileTextInput": "Profiiliteksti",
+        "profileTextPlaceholder": "Kerro jotain itsestäsi!",
+        "update": "Päivitä"
+    },
+
+    "profile-menu":{
+        "profile": "Profiili",
+        "settings": "Asetukset"
+    },
+
+    "nav-menu":{
+        "swipe": "Swipettämään",
+        "chat": "Viestit"
+    },
+
+    "swipe":{
+        "swipeText": "Swipetä!",
+        "likeBtn": "Jeah!",
+        "dislikeBtn": "Eih!",
+        "match": "Sait osuman {{name}} kanssa!",
+        "matchMsgSent": "Lähetetty!",
+        "like": "Tykkäsit henkilöstä {{name}}!",
+        "end": "Tällä hetkellä ei ole tarjolla swipetettäviä käyttäjiä. 😢"
+    },
+
+    "modal":{
+        "registerDate": "Rekisteröintipäivä: {{date}}",
+        "name": "Nimi: {{name}}",
+        "bio": "Bio: {{bio}}",
+        "age": "Ikä: {{age}}"
+    },
+
+    "chat":{
+        "messageInput": "Lähetä viesti henkilölle {{name}}",
+        "noMessages": "Älä turhaan ujostele! Ole rohkea ja aloita keskustelu 😜",
+        "noChats": "Sinulla ei ole vielä osumia. Mene swipettämään!"
+    },
+
+    "settings":{
+        "title": "Asetukset",
+        "changeLang": "Vaihda kieltä",
+        "delete": "Poista käyttäjä",
+        "confirmDel": "Vahvista käyttäjän poisto klikkaamalla uudestaan"
+    }
+
+}
