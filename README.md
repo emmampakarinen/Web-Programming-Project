@@ -2,7 +2,7 @@
 Advanced Web Programming project
 
 In this school project the task was to implement a tinder clone web application. The web application had
-to include letting users register, authenticated users can send likes and message each other. I
+to include letting users register and letting authenticated users send likes and message each other. I
 created the UI of the system with React and MUI, backend was implemented with NodeJS and
 Express and database was implemented with MongoDB.
 
