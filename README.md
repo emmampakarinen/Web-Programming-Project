@@ -5,6 +5,9 @@ to include letting users register and letting authenticated users send likes and
 created the UI of the system with **React** and **MUI**, backend was implemented with 
 **Express**, and database was implemented with **MongoDB**.
 
+![image](https://github.com/user-attachments/assets/0c4da38b-d67b-42e0-b271-35e4d7750610)
+
+
 Installation: 
 Make sure you have Node.js, nodemon and MongoDB accessible for the computer where you want
 to run the app.
