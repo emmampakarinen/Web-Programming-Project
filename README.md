@@ -1,10 +1,9 @@
-# Web-Programming-Project
-Advanced Web Programming project
+# Advanced Web Programming project
 
-In this school project the task was to implement a tinder clone web application. The web application had
+In this school project the task was to implement a *tinder clone* web application. The web application had
 to include letting users register and letting authenticated users send likes and message each other. I
-created the UI of the system with React and MUI, backend was implemented with NodeJS and
-Express and database was implemented with MongoDB.
+created the UI of the system with **React** and **MUI**, backend was implemented with 
+**Express**, and database was implemented with **MongoDB**.
 
 Installation: 
 Make sure you have Node.js, nodemon and MongoDB accessible for the computer where you want
